@@ -1,6 +1,6 @@
 # ZK-SNARK-Designer
 
-# Final Challenge Project
+## Final Challenge Project
 
 This repository contains the implementation for the Final Challenge project, which involves writing a circuit, compiling it, generating proofs, deploying a Solidity verifier contract, and verifying the proof.
 
